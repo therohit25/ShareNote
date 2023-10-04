@@ -1,0 +1,11 @@
+ @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+ /* @import url('https://fonts.googleapis.com/css2?family=Oswald&family=Ubuntu&display=swap'); */
+ @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+ *{
+    /* font-family: 'Oswald', sans-serif; */
+  
+    font-family: 'Ubuntu', 'Times New Roman';
+ }
+ .semi-heading{
+  font-family: 'Oswald', sans-serif;
+ }
